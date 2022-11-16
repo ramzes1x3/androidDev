@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigation_home"
+        android:title="Book list"
+        android:icon="@drawable/ic_home" />
+
+    <item android:id="@+id/navigation_select_book"
+        android:title="Select book"
+        android:icon="@drawable/ic_book" />
+
+    <item android:id="@+id/navigation_favorite"
+        android:title="Favorite"
+        android:icon="@drawable/ic_favorite" />
+
+</menu>
